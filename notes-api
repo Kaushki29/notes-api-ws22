@@ -1,0 +1,24 @@
+{
+	"notes": [{
+			"id": 1001,
+			"title": "abcd",
+			"descr": "AAAA",
+			"cdate": "10/10/23",
+			"importance": "#ffff"
+		},
+		{
+			"id": 1002,
+			"title": "xyz",
+			"descr": "AAAA",
+			"cdate": "10/10/23",
+			"importance": "#ffff"
+		},
+		{
+			"id": 1003,
+			"title": "fgh",
+			"descr": "AAAA",
+			"cdate": "10/10/23",
+			"importance": "#ffff"
+		}
+	]
+}
